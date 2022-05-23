@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/currency-converter-calculator/static/css/main.ae42b47a.css",
+    "main.js": "/currency-converter-calculator/static/js/main.73807fc9.js",
+    "static/js/787.a3678a5a.chunk.js": "/currency-converter-calculator/static/js/787.a3678a5a.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/currency-converter-calculator/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-Bold.ttf": "/currency-converter-calculator/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-Medium.ttf": "/currency-converter-calculator/static/media/Montserrat-Medium.e2d60bc49517598c0ce8.ttf",
+    "index.html": "/currency-converter-calculator/index.html",
+    "main.ae42b47a.css.map": "/currency-converter-calculator/static/css/main.ae42b47a.css.map",
+    "main.73807fc9.js.map": "/currency-converter-calculator/static/js/main.73807fc9.js.map",
+    "787.a3678a5a.chunk.js.map": "/currency-converter-calculator/static/js/787.a3678a5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42b47a.css",
+    "static/js/main.73807fc9.js"
+  ]
+}
